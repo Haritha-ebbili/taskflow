@@ -1,3 +1,6 @@
+## Project Status
+Completed assessment project with task workflow management functionality.
+
 # TaskFlow — Team Task Manager
 
 A full-stack team task management application built with React, Express, PostgreSQL, and Clerk authentication.
